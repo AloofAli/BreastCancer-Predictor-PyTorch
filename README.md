@@ -1,2 +1,6 @@
-# BreastCancer-Predictor-PyTorch
-Logistic Regression for Breast Cancer Classification using PyTorch
+- Loss: `BCELoss`
+- Optimizer: `SGD` (lr=0.01)
+- Epochs: `100`
+---
+
+**Final Test Accuracy:** ~96.4%
